@@ -1,0 +1,19 @@
+body {
+  font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+.odd {
+  background: lightpink;
+}
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+.medium {
+  font-size: 24px;
+}
+
+#fourth {
+  background: lightgreen;
+}
